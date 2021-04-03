@@ -1,0 +1,21 @@
+#글의 범주(주제)를 설정하는 곳
+JDBC :
+  name: JDBC
+  description: False
+  cover: assets/built/images/jdbc.jfif
+WEB :
+  name: WEB
+  description: False
+  cover: assets/built/images/python.jfif
+TIL :
+  name: TIL
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+JAVA :
+  name: JAVA
+  description: False
+  cover: assets/built/images/jdbc.jfif
+Algorithm :
+  name: Algorithm
+  description: False
+  cover: assets/built/images/algorithm.png

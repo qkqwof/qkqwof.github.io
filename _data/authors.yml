@@ -1,0 +1,11 @@
+qkqwof :
+  username: qkqwof    # user name : martin
+  name: qkqwof        # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: 왕초보 문과생 개발 준비생
+                        # 회사정보
+  picture: assets/built/images/bus.jpg   # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
